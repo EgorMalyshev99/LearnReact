@@ -1,0 +1,11 @@
+.top_string {
+  font-size: 20px;
+  /* display: flex;
+  flex-direction: row;
+  justify-content: space-between; */
+}
+
+.counter {
+  display: flex;
+  flex-direction: row;
+}
